@@ -1,0 +1,19 @@
+{
+  "name": "bare-webpack-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-kim-tutorial/bare-webpack-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-kim-tutorial/bare-webpack-experiment/issues"
+  },
+  "homepage": "https://github.com/max-kim-tutorial/bare-webpack-experiment#readme"
+}
